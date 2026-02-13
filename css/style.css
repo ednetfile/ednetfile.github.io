@@ -151,30 +151,6 @@ sup {
   top: -.5em;
 }
 
-a {
-  color: #000637;
-  text-decoration: none;
-  background-color: transparent;
-}
-
-a:hover {
-  color: black;
-  text-decoration: underline;
-}
-
-a:not([href]):not([tabindex]) {
-  color: inherit;
-  text-decoration: none;
-}
-
-a:not([href]):not([tabindex]):hover, a:not([href]):not([tabindex]):focus {
-  color: inherit;
-  text-decoration: none;
-}
-
-a:not([href]):not([tabindex]):focus {
-  outline: 0;
-}
 
 pre,
 code,
@@ -10284,3 +10260,4 @@ footer a:hover {
   justify-content: flex-start;
   padding: 5px 0px 20px 39px;
 }
+
