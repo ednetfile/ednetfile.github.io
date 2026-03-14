@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /ielts/reading/
+Allow: /
+Sitemap: https://ednetfile.github.io/sitemap.xml
